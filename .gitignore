@@ -1,0 +1,17 @@
+# Ignore node_modules directory
+/node_modules
+
+# Ignore .env file for sensitive environment variables
+/.env
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# IDE specific files (e.g., VSCode)
+.vscode/
+
+# npm package lock files (if you prefer not to commit them)
+package-lock.json
+yarn.lock
